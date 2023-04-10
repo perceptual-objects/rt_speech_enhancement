@@ -32,7 +32,7 @@ speaker's identity is continuously changing to show how the system behaves with 
 voices. Click on the "Toggle enhancer" button at any time to switch between
 the original recording and the denoised one.[^2]
 
-<iframe width="100%" height="350" src="/assets/vx-f4-b-01_demo/" frameborder="0"></iframe>
+<iframe width="100%" height="350" src="https://perceptual-objects.github.io/rt_speech_enhancement/assets/vx-f4-b-01_demo/" frameborder="0"></iframe>
 
 ##### Denoising system features
 
