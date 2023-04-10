@@ -18,6 +18,10 @@ for various denoising needs, including:
 - Speech processing on mobile and embedded devices
 - Voice-operated IoT devices
 
+<audio name="Original" url="assets/vx-f4-b-01_demo/data/alter_cafe_bg_sp_interf.ogg"></audio>
+
+<audio name="Toggle enhancer" url="assets/vx-f4-b-01_demo/data/alter_cafe_bg_sp_interf__estimated_speech.ogg"></audio>
+
 Check our [initial demo](https://perceptual-objects.github.io/rt_speech_enhancement/projects/1_project/) and visit back soon for more impressive demos!
 
 ### Credits
