@@ -10,7 +10,7 @@ for various denoising needs, including:
 - environmental noise suppression;
 - interfering voice suppression, especially for face-to-face communication.
 
-##### Applications
+### Applications
 
 - Hearing aids
 - Hearables
@@ -19,3 +19,7 @@ for various denoising needs, including:
 - Voice-operated IoT devices
 
 Check our [initial demo](https://perceptual-objects.github.io/rt_speech_enhancement/projects/1_project/) and visit back soon for more impressive demos!
+
+### Credits
+
+Website made with the [al-folio](https://github.com/alshedivat/al-folio) [Jekyll](https://jekyllrb.com/) theme.
